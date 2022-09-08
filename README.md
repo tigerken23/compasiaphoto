@@ -10,6 +10,9 @@ Equatable: Compare between objects
 ### BLOC architecture
 ![bloc_flow](https://user-images.githubusercontent.com/113017216/189017621-7e547ada-b095-47d7-9114-dfdb924dfab1.png)
 
+### UI flows in app
+![compasia drawio (1)](https://user-images.githubusercontent.com/113017216/189019802-5ae7b76c-55b8-4781-8c45-cb43a3d9d0a7.png)
+
 
 ### Video
 Here is video demo [link](https://youtube.com/shorts/1QItaGJMs5Y)
